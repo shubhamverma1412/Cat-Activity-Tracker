@@ -23,9 +23,7 @@ To achieve the project objectives, the following components will be utilized:
 
 - **Machine Learning Algorithms**: Various machine learning algorithms will be employed to train models for event classification based on the collected data.
   
-- **Feature Engineering**: Feature engineering techniques will be applied to extract relevant features from the sensor data and image feeds.
-  
-- **Image Processing**: Image processing algorithms will be used to extract useful information from photo and video feeds captured by the cameras.
+- **Feature Engineering**: Feature engineering techniques will be applied to extract relevant features from the sensor data.
   
 - **Data Visualization**: Data visualization tools and libraries will be utilized to analyze and visualize the data, aiding in understanding patterns and trends.
   
